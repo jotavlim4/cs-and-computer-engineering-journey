@@ -2,7 +2,7 @@
 
 | Course                                                                                                     | Status         |
 | ---------------------------------------------------------------------------------------------------------- | -------------- |
-| [6.0001 — Introduction to Computer Science and Programming in Python](6.100L_intro-programming-in-python/) | 🔄 In progress |
+| [6.0001 — Introduction to Computer Science and Programming in Python](6.100L_intro-programming-cs-python) | 🔄 In progress |
 | [6.042J — Mathematics for Computer Science](6.042j_math-cs/)                                               | 🔄 In progress |
 | [18.01 — Single Variable Calculus](18.01_single-variable-calculus/)                                        | 🔄 In progress |
 
