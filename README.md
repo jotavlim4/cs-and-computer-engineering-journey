@@ -3,7 +3,7 @@
 | Course                                                                                                     | Status         |
 | ---------------------------------------------------------------------------------------------------------- | -------------- |
 | [6.0001 — Introduction to Computer Science and Programming in Python](https://github.com/jotavlim4/ocw-journey/tree/main/ocw-cs/6.100L_intro-programming-cs-python) | 🔄 In progress |
-| [6.042J — Mathematics for Computer Science](6.042j_math-cs/)                                               | 🔄 In progress |
+| [6.042J — Mathematics for Computer Science](https://github.com/jotavlim4/ocw-journey/tree/main/ocw-cs/6.042j_math-for-cs)                                               | 🔄 In progress |
 | [18.01 — Single Variable Calculus](18.01_single-variable-calculus/)                                        | 🔄 In progress |
 
 ---
