@@ -12,6 +12,7 @@
 ## 📚 Main Resources
 
 - [MIT OpenCourseWare](https://ocw.mit.edu)
+- [MIT OpenLearning](https://openlearning.mit.edu/courses-programs/open-learning-library)
 - Textbooks recommended by MIT courses and my professors at UFRN
 - Self-made projects for deeper understanding
 
