@@ -1,28 +1,27 @@
-# Projeto de Estudo Autodirigido — Desenvolvimento Web
+# Self-Directed Study Project — Web Development
 
-Este repositório documenta meu processo de **aprendizado autodirigido em desenvolvimento web**, tendo como principais fontes de estudo o livro **[Eloquent JavaScript (Marijn Haverbeke)](https://eloquentjavascript.net/)** e a **[MDN Web Docs](https://developer.mozilla.org/)**.  
-O objetivo é consolidar conceitos fundamentais de **JavaScript, HTML, CSS e boas práticas de programação**, através de leitura, anotações e projetos práticos.
-
----
-
-## Objetivos do Projeto
-
-- Compreender profundamente os fundamentos da linguagem **JavaScript**.  
-- Desenvolver fluência em **HTML** e **CSS** para criação de páginas e interfaces.  
-- Praticar **programação funcional, orientação a objetos e manipulação do DOM**.  
-- Construir pequenos **projetos práticos** com base nos capítulos do *Eloquent JavaScript*.  
-- Registrar o progresso e reflexões sobre o aprendizado.
+This repository documents my **self-directed learning process in web development**, using **[Eloquent JavaScript (Marijn Haverbeke)](https://eloquentjavascript.net/)** and **[MDN Web Docs](https://developer.mozilla.org/)** as my main study resources.  
+The goal is to strengthen my understanding of **JavaScript, HTML, CSS**, and **best programming practices** through reading, note-taking, and hands-on projects.
 
 ---
 
-## Fontes de Estudo
+## Project Goals
 
-- **Eloquent JavaScript (3ª edição)** — Marijn Haverbeke  
+- Develop a deep understanding of **JavaScript fundamentals**.  
+- Build fluency in **HTML** and **CSS** for creating pages and interfaces.  
+- Practice **functional programming, object-oriented programming, and DOM manipulation**.  
+- Build small **practical projects** based on the chapters of *Eloquent JavaScript*.  
+- Record my progress and reflections throughout the learning journey.
+
+---
+
+## Study Resources
+
+- **Eloquent JavaScript (3rd Edition)** — Marijn Haverbeke  
   → [https://eloquentjavascript.net/](https://eloquentjavascript.net/)  
 - **MDN Web Docs**  
   → [https://developer.mozilla.org/](https://developer.mozilla.org/)
-  
-  
+
 ---
 
 > _"Learning to program is learning to think."_ — Marijn Haverbeke
