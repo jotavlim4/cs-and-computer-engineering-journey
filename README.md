@@ -2,11 +2,10 @@
 
 | Subject                                                                                                     | Status         |
 | ---------------------------------------------------------------------------------------------------------- | -------------- |
-| [Introduction to Computer Science and Programming in Python](https://github.com/jotavlim4/cs-and-computer-engineering-journey/tree/main/intro-programming-cs-python) | 🔄 In progress |
-| [Mathematics for Computer Science](https://github.com/jotavlim4/cs-and-computer-engineering-journey/tree/main/math-for-cs)                                               | 🔄 In progress |
-| [Single Variable Calculus](https://github.com/jotavlim4/cs-and-computer-engineering-journey/tree/main/single-variable-calculus)                                        | 🔄 In progress |
-| [Web Development](https://github.com/jotavlim4/cs-and-computer-engineering-journey/tree/main/web-development) |🔄 In progress|
-| [C/C++ Programming](https://github.com/jotavlim4/cs-and-computer-engineering-journey/tree/main/c-cpp-programming) |🔄 In progress|
+| [6.100L - Introduction to Computer Science and Programming in Python](https://github.com/jotavlim4/cs-and-computer-engineering-journey/tree/main/intro-programming-cs-python) | 🔄 In progress |
+| [6.042J - Mathematics for Computer Science](https://github.com/jotavlim4/cs-and-computer-engineering-journey/tree/main/math-for-cs)                                               | 🔄 In progress |
+| [18.01 - Single Variable Calculus](https://github.com/jotavlim4/cs-and-computer-engineering-journey/tree/main/single-variable-calculus)                                        | 🔄 In progress |
+
 ---
 
 ## 📚 Main Resources
